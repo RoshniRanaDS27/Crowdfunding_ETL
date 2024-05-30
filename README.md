@@ -1,7 +1,7 @@
 - In this repository you will have an ETL mini project.  
 - We worked with ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data.  
 - After transforming the data, we followed the steps to create four CSV files and use the CSV file data to create an ERD and a table schemas.  
-- Finally, we uploaded the CSV file data into a Postgres database.
+- Finally, we uploaded the CSV file data into a #Postgres database.
 
 # This repository contains 2 directories and 1 Jupyter Notebook file.  
 
