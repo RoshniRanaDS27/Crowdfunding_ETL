@@ -7,7 +7,7 @@
 - After transforming the data, we followed the steps to create four CSV files and use the CSV file data to create an ERD and a table schemas.  
 - Finally, we uploaded the CSV file data into a #Postgres database.
 
-# This repository contains 2 directories and 1 Jupyter Notebook file.    
+# This repository contains 2 directories and 1 Jupyter Notebook file.     
 ![image](https://github.com/user-attachments/assets/1ccf3548-19a8-422b-ab6c-4c8bff62534b)
 
 
